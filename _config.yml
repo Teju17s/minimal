@@ -1,4 +1,4 @@
-title: "<p align='center'><strong>Telagamsetty Tejaswi</strong></p>"
+title: "Telagamsetty Tejaswi"
 logo: /assets/img/logo.jpeg
 
 description: |
@@ -10,9 +10,10 @@ description: |
     Skilled in <strong>RESTful API</strong> development and computer vision using <strong>OpenCV</strong>.<br><br>
     Passionate about solving real-world problems through <strong>AI</strong>.
   </p>
-  <hr>
 
 theme: jekyll-theme-minimal
+
+repository: ''  # Disables GitHub repo footer links
 
 linkedin_username: sabari-tejaswi-telagamsetty-9580b824b
 github_username: Teju17s
