@@ -1,6 +1,17 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+
+title: <p align="center">Telagamsetty Sabari Tejaswi</p>
+logo: /assets/img/logo.jpeg
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/sabari-tejaswi-telagamsetty-9580b824b">LinkedIn</a> |
+  <a href="https://github.com/Teju17s">GitHub</a>
+  
+  <br><br>
+  Computer Science graduate with skills in Java, Python, Spring Boot, Flask, OpenCV, and building REST APIs.
+  <br>
+  </p>
+
 theme: jekyll-theme-minimal
