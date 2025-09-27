@@ -2,13 +2,20 @@ title: "Telagamsetty Tejaswi"
 logo: /assets/img/logo.jpeg
 
 description: |
-  <p align="center">
+  <p align="center" style="margin-bottom: 10px;">
     <a href="https://linkedin.com/in/sabari-tejaswi-telagamsetty-9580b824b">LinkedIn</a> &nbsp;|&nbsp; 
     <a href="https://github.com/Teju17s">GitHub</a>
   </p>
-  <p align="center">
+
+  <p align="center" style="margin-top: 20px; margin-bottom: 20px;">
     Experienced in building scalable backend systems with <strong>Java</strong>, <strong>Python</strong>, and <strong>Spring Boot</strong>.<br>
     Passionate about solving real-world problems through <strong>AI</strong>.
+  </p>
+
+  <p align="center" style="margin-top: 30px;">
+    View the Project on <a href="https://github.com/Teju17s/portfolio">GitHub Teju17s/portfolio</a><br><br>
+    This project is maintained by <strong>Teju17s</strong><br><br>
+    Hosted on <a href="https://github.com/">GitHub</a>
   </p>
 
 theme: jekyll-theme-minimal
@@ -24,6 +31,7 @@ plugins:
 remote_theme: pages-themes/minimal@v0.2.0
 
 show_downloads: false
+
 
 
 
