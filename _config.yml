@@ -1,31 +1,12 @@
-title: <p align="center"><strong>Telagamsetty Tejaswi</strong></p>
+title: Telagamsetty Tejaswi
 logo: /assets/img/logo.jpeg
 
-description: |
-  <p align="center">
-    <a href="https://linkedin.com/in/sabari-tejaswi-telagamsetty-9580b824b">LinkedIn</a> &nbsp;|&nbsp;
-    <a href="https://github.com/Teju17s">GitHub</a>
-    <br><br>
-    Experienced in building scalable backend systems with <strong>Java</strong>, <strong>Python</strong>, <strong>Spring Boot</strong>, and <strong>Flask</strong>.<br><br>
-    Skilled in <strong>RESTful API</strong> development and computer vision using <strong>OpenCV</strong>.<br><br>
-    Passionate about solving real-world problems through <strong>AI</strong>.
-    <hr>
-    <br><br>
-  </p>
-  <hr>
+# Disable theme layout - using custom content
+theme: null
+remote_theme: null
 
-# Theme settings
-theme: jekyll-theme-minimal
-
-# Social links (optional, only shown if layout uses them)
-linkedin_username: sabari-tejaswi-telagamsetty-9580b824b
-github_username: Teju17s
-
-# Build settings
 plugins:
   - jekyll-remote-theme
-
-remote_theme: pages-themes/minimal@v0.2.0
 
 show_downloads: false
 
