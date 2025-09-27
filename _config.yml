@@ -12,11 +12,7 @@ description: |
     Passionate about solving real-world problems through <strong>AI</strong>.
   </p>
 
- 
-
 theme: jekyll-theme-minimal
-
-
 
 linkedin_username: sabari-tejaswi-telagamsetty-9580b824b
 github_username: Teju17s
@@ -27,6 +23,8 @@ plugins:
 remote_theme: pages-themes/minimal@v0.2.0
 
 show_downloads: false
+
+repository: ""  # Optional: Hides GitHub footer link
 
 
 
