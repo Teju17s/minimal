@@ -1,14 +1,17 @@
 title: Telagamsetty Tejaswi
 logo: /assets/img/logo.jpeg
 
-# Disable theme layout - using custom content
-theme: null
-remote_theme: null
+theme: jekyll-theme-minimal
 
 plugins:
   - jekyll-remote-theme
 
+remote_theme: pages-themes/minimal@v0.2.0
+
 show_downloads: false
+
+linkedin_username: sabari-tejaswi-telagamsetty-9580b824b
+github_username: Teju17s
 
 
 
