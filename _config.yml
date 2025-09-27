@@ -1,4 +1,4 @@
-title: "Telagamsetty Tejaswi"
+title: "<p align='center'>Telagamsetty Tejaswi</p>"
 logo: /assets/img/logo.jpeg
 
 description: |
@@ -24,6 +24,7 @@ plugins:
 remote_theme: pages-themes/minimal@v0.2.0
 
 show_downloads: false
+
 
 
 
