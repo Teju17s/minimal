@@ -2,10 +2,9 @@ title: "Telagamsetty Sabari Tejaswi"
 logo: /assets/img/logo.jpeg
 
 description: >
-  
-Experienced in building scalable backend systems with Java, Python, Spring Boot, and Flask.
-Skilled in RESTful API development and computer vision using OpenCV.
-Passionate about solving real-world problems through AI and clean, efficient code.
+  Experienced in building scalable backend systems with Java, Python, Spring Boot, and Flask.
+  Skilled in RESTful API development and computer vision using OpenCV.
+  Passionate about solving real-world problems through AI and clean, efficient code.
 
 # Theme settings
 theme: jekyll-theme-minimal
@@ -24,14 +23,4 @@ remote_theme: pages-themes/minimal@v0.2.0
 # Optional - show "Download" button on navbar
 show_downloads: false
 
-# Optional - Google Analytics (if you have one)
-# google_analytics: UA-XXXXXXXXX-X
-
-# Exclude unnecessary files from build
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
-  - README.md
 
