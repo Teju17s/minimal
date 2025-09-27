@@ -9,8 +9,10 @@ description: |
     Experienced in building scalable backend systems with <strong>Java</strong>, <strong>Python</strong>, <strong>Spring Boot</strong>, and <strong>Flask</strong>.<br><br>
     Skilled in <strong>RESTful API</strong> development and computer vision using <strong>OpenCV</strong>.<br><br>
     Passionate about solving real-world problems through <strong>AI</strong>.
+    <hr>
     <br><br>
   </p>
+  <hr>
 
 # Theme settings
 theme: jekyll-theme-minimal
