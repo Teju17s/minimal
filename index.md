@@ -64,13 +64,4 @@ Passionate about problem-solving through clean, efficient code. Quick learner ea
 
 ---
 
-### Additional Examples (From template)
-
-### Javascript code with syntax highlighting.
-
-```js
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
 
