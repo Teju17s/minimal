@@ -7,5 +7,31 @@ description: >
   Skilled in developing RESTful APIs and implementing computer vision solutions with OpenCV.
   Eager to contribute to innovative projects at the intersection of data science and real-world problem solving.
 
+# Theme settings
 theme: jekyll-theme-minimal
+
+# Social links (not shown unless added in layout manually)
+linkedin_username: sabari-tejaswi-telagamsetty-9580b824b
+github_username: Teju17s
+
+# Build settings
+plugins:
+  - jekyll-remote-theme
+
+# Enable remote_theme if using fork of Minimal
+remote_theme: pages-themes/minimal@v0.2.0
+
+# Optional - show "Download" button on navbar
+show_downloads: false
+
+# Optional - Google Analytics (if you have one)
+# google_analytics: UA-XXXXXXXXX-X
+
+# Exclude unnecessary files from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
 
